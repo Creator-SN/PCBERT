@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers import BertConfig, BertModel
+from transformers import BertConfig, BertModel, BertPreTrainedModel
 from CC.PCBert import PCBertModel
 from CC.birnncrf import BiRnnCrf
 from ICCSupervised.ICCSupervised import IModel
