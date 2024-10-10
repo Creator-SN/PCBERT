@@ -9,15 +9,15 @@ Train Steps:
 1. Use LEBERT train from SUPERNER datasets.
 2. Predict target domain train dataset.
 3. Use predict dataset train P-BERT.
-4. Load P-BERT and fine tune C-BERT.
+4. Load P-BERT and fine-tune C-BERT.
 
-Please checkout the `exp.ipynb` to run the project.
+Please check out the `exp.ipynb` to run the project.
 
 ## Dataset
 
-The sampled datasets of low-resource scenarios in this work include: `Weibo`, `Ontonotes`, `MSRA` and `Resume`.
+The sampled datasets of low-resource scenarios in this work include: `Weibo`, `Ontonotes`, `MSRA`, and `Resume`.
 
-You can download the proceed low-resource and high-resource dataset in [Google Drive](https://drive.google.com/file/d/1TH6s_njTI04f2YZWc4S3WL4IifRYy43-/view?usp=sharing).
+You can download the proceed low-resource and high-resource datasets in [Google Drive](https://drive.google.com/file/d/1TH6s_njTI04f2YZWc4S3WL4IifRYy43-/view?usp=sharing).
 
 ## Citation
 
