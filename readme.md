@@ -21,7 +21,7 @@ Please check out the `exp.ipynb` to run the project.
 
 The sampled datasets of low-resource scenarios in this work include: `Weibo`, `Ontonotes`, `MSRA`, and `Resume`.
 
-You can download the proceed low-resource and high-resource datasets in [Google Drive](https://drive.google.com/file/d/1TH6s_njTI04f2YZWc4S3WL4IifRYy43-/view?usp=sharing).
+You can download the proceed low-resource datasets in [Google Drive](https://drive.google.com/file/d/1TH6s_njTI04f2YZWc4S3WL4IifRYy43-/view?usp=sharing).
 
 ## Citation
 
